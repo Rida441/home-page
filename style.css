@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.title{
+    position: absolute;
+    top: 45px;
+    right: 1332px;
+    padding: 10px;
+    word-spacing: 30px;
+    color: white;
+}
+.logo{
+    position: absolute;
+    top: 21px;
+    right: 1640px;
+    padding: 10px;
+    word-spacing: 30px;
+    color: white;
+    font-size: 49px;
+}
+.card2{
+    position: absolute;
+    right: 180px;
+    top: 61px;
+    font-size: 27px;
+}
+.card2 p{
+    color: rgba(105, 105, 105, 0.835);
+}
+.card2 h5{
+    position: absolute;
+    top: 312px;
+    margin-right: 10px;
+}
+.arrow{
+    position: absolute;
+    top: 317px;
+    right: 505px;
+    height: 21px;
+    width: 58px;
+}
+.arrow2{
+    background: black;
+    color: white;
+    position: absolute;
+    top: 393px;
+    height: 65px;
+    width: 135px;
+    right: 645;
+} 
+.arrow2 h3{
+    position: absolute;
+    top: 11px;
+    right: 42px;
+    padding-right: 10px;
+}
+.darkchair{
+    height: 350px;
+    width: 600px;
+    position: absolute;
+    top: 535px;
+}
+.card3{
+    position: absolute;
+    right: 445px;
+    top: 569px;
+    font-size: 20px;
+}
+.card3 p{
+    color: rgb(219, 211, 196);
+}
+.lightchair{
+    position: absolute;
+    right: -500px;
+    top: 23px;
+}
+
+
+
+
+
